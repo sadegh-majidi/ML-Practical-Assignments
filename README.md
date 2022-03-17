@@ -7,4 +7,4 @@ HW 3: **Linear Regression**
 
 HW 4: **Decision Tree and Ensemble Learning (AdaBoost)**
 
-HW 5: **K-Means, EM and GMM**
+HW 5: **K-Means, EM and GMM for image segmentation**
